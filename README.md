@@ -115,6 +115,6 @@ Train notebook:
 
 Test notebook:
 
-- To run the first model, CycleGan, you need first to run the "Final Project - Deep Learning - Test Notebook" section and then run "CycleGan - Monet paintings" section and upload a photo.
+- To run the first model, CycleGan, you need first to run the "Final Project - Deep Learning - Test Notebook" section and then run "CycleGan - Monet paintings" section and upload a 256x256 photo.
 
-- To run the second model, Neural Style Transfer, you need first to run all and upload a photo.
+- To run the second model, Neural Style Transfer, you need first to run all and upload a 256x256 photo.
