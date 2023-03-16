@@ -5,7 +5,7 @@
 
 ### Introduction
 
-Our project involves utilizing deep learning techniques to create Monet-inspired images from photographs. To achieve this, we acquired a dataset from 'kaggle' (we participated in deep learning kaggle competition) containing both Monet's artworks and regular photographs. We then proceeded to train multiple models using this dataset. The project is composed of two phases: training and testing, and it explores two distinct image style transfer architectures: cycleGAN and neural style transfer.
+Our project involves utilizing deep learning techniques to create Monet-inspired images from photographs. To achieve this, we acquired a dataset from 'kaggle' (we participated in a deep learning kaggle competition) containing both Monet's artworks and regular photographs. We then proceeded to train multiple models using this dataset. The project is composed of two phases: training and testing, and it explores two distinct image style transfer architectures: cycleGAN and neural style transfer.
 
 
 ## Colab notebook structure:
